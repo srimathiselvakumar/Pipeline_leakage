@@ -88,7 +88,7 @@
 import React, { useState, useEffect } from "react";
 import "./OverviewPanel.css";
 
-const BACKEND_URL = "http://192.168.1.2:5000/api/pipelines";
+const BACKEND_URL = "http://192.168.235.235:5000/api/pipelines";
 
 function OverviewPanel() {
   const [data, setData] = useState({
