@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from "react";
 import "./LiveAlerts.css";
 
-const BACKEND_URL = "http://192.168.80.235:5000/api/pipelines";
+const BACKEND_URL = "https://pipeline-leakage-backend1.onrender.com/api/pipelines";
 
 function LiveAlerts() {
   const PIPELINE_ID = "68d9221d8776ac0e0a30eda1";
