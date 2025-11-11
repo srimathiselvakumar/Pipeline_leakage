@@ -762,11 +762,11 @@ function LandingPage() {
           <div className="footer-content">
             <div className="footer-section">
               <div className="footer-logo">
-                <img 
-                  src="https://img.icons8.com/color/48/000000/water.png" 
-                  alt="AquaFlow Logo" 
-                  className="logo-img"
-                />
+                 <img 
+            src="https://img.icons8.com/color/48/000000/water.png" 
+            alt="AquaFlow" 
+            className="logo-image"
+          />
                 <h4>AquaFlow System</h4>
               </div>
               <p>Advanced water monitoring solutions for modern residential and commercial properties. Protecting your investments 24/7.</p>

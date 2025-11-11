@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from "react";
 import "./LogsHistory.css";
 
-const BACKEND_URL = "http://192.168.235.235:5000/api/logs"; // Backend URL
+const BACKEND_URL = "http://192.168.80.235:5000/api/logs"; // Backend URL
 
 function LogsHistory() {
   const [currentTime, setCurrentTime] = useState(new Date());
